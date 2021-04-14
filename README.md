@@ -1,3 +1,8 @@
+# Important note
+
+I didn't make this plugin. It was originally made by rafern <rafern@protonmail.com>. See the original
+repo at https://github.com/rafern/flutter_native_string_res. I just migrated it to null safety.
+
 # flutter_native_string_res
 
 Flutter plugin for getting native string resources
